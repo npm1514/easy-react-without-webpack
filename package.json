@@ -1,8 +1,13 @@
 {
   "name": "babelreact",
   "version": "0.1.0",
+  "main": "server.js",
   "private": true,
   "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "path": "^0.12.7",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "react-scripts": "0.9.5"
